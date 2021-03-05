@@ -1,4 +1,7 @@
-# Solace Samples Template
+# [Not USED] Solace Samples Template
+
+NOTE: Refer to [Tutorials](https://tutorials.solace.dev/)
+
 
 This project is the common template from which all Solace Samples are merged. When creating a new Solace sample, you should fork this repo and then create your sample. Template updates can be applied by merging from this repo on both the `master` and `gh-pages` branch. The `gh-pages` branch is setup and ready to be used to create tutorials. See the [README](https://github.com/SolaceSamples/solace-samples-template/blob/gh-pages/README.md) in that branch for details. Any code and description in the samples should not overlap with this template.
 
